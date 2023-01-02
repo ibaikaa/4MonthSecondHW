@@ -75,6 +75,7 @@ class Database {
             contact.number = nil
             //number reference count is 1 
             return contact
+            
     }
 
   private init() {}
